@@ -12,4 +12,9 @@ Reference links:
 
 
 Resources-for-preparation-Of-Placements:-
+
 https://github.com/riti2409/Resources-for-preparation-Of-Placements?tab=readme-ov-file
+
+
+Accenture Previous Year Coding Questions
+
