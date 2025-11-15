@@ -12,9 +12,8 @@ Reference links:
 
 
 Resources-for-preparation-Of-Placements:-
-
 https://github.com/riti2409/Resources-for-preparation-Of-Placements?tab=readme-ov-file
 
 
 Accenture Previous Year Coding Questions
-
+https://github.com/atharva7803/Accenture-Previous-Year-Coding-Questions-/tree/main/Accenture%20Previous%20Year%20Coding%20Questions
